@@ -1,2 +1,2 @@
 # git_workshop
-git workshop
+Just gitting started!
